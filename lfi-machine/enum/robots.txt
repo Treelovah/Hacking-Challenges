@@ -1,0 +1,2 @@
+follow redirect from index to landing_page
+
